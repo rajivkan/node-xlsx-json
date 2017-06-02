@@ -1,6 +1,6 @@
 {
-  "name": "xlsx-to-json",
-  "version": "0.2.4",
+  "name": "xlsx-2-json",
+  "version": "1.0.0",
   "description": "Convert xlsx to json",
   "main": "index.js",
   "scripts": {
